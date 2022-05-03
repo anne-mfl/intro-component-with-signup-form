@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://anne-mfl.github.io/intro-component-with-signup-form/)
+- [Live site here](https://anne-mfl.github.io/intro-component-with-signup-form/)
 
 
 ## Built with
