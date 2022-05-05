@@ -102,7 +102,7 @@ function App() {
 
         <footer>
           <p className="attribution">
-            Challenge by <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1/hub/intro-component-with-signup-form-BkVddNaHq" target="_blank">Frontend Mentor</a>.
+            Challenge by <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1" target="_blank">Frontend Mentor</a>.
             Coded by <a href="https://www.frontendmentor.io/profile/anne-mfl">Anne</a>.
           </p>
         </footer>
