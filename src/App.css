@@ -141,21 +141,3 @@ h5 {
   text-align: center;
   font-weight: 700px;
 }
-
-footer {
-  text-align: center;
-  color: white;
-  height: 16px;
-  position: relative;
-  bottom: 50px;
-}
-
-footer a {
-  text-decoration: none;
-  color: white;
-  font-weight: 700;
-}
-
-.attribution {
-  margin: 0px;
-}
